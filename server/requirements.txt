@@ -18,7 +18,7 @@ serious-django-graphene==0.4.1
 django-graphql-jwt==0.2.2
 celery==4.2.2
 redis==3.2.1
-flower==0.9.3
+flower==1.2.0
 pytest==4.3.0
 pytest-cov==2.6.1
 pytest-django==3.4.8
